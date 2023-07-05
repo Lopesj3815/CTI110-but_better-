@@ -1,2 +1,4 @@
-# CTI110-but_better-
-CTI110 Repository, reworked for aesthetic appeal and ease of navigation
+# CTI110 Repository
+# Created for P1LAB1
+#Lopez
+#6/16/23
